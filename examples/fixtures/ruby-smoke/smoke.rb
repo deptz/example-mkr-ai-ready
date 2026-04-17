@@ -1,0 +1,1 @@
+puts "SMOKE_OK"
